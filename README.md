@@ -32,7 +32,7 @@ Currently completing my Master's degree with hands-on experience in:
 
 ## 🚀 Featured Projects
 
-### [Succube — Linux Kernel Driver](https://github.com/dxtrnear/succube)
+### [Succube — Linux Kernel Driver](https://github.com/dxtrnear/publisher-subscriber-linux-)
 > Publisher/Subscriber communication driver for Linux kernel
 
 - Character device implementation with ioctl support
@@ -44,7 +44,7 @@ Currently completing my Master's degree with hands-on experience in:
 
 ---
 
-### [Backdoor Attack Analysis on CNNs](https://github.com/dxtrnear/backdoor-cnn)
+### [Backdoor Attack Analysis on CNNs](https://github.com/dxtrnear/m2-data-poisoning-detection)
 > Systematic empirical study of backdoor attacks on convolutional neural networks
 
 - 27 experimental configurations with 88-96% attack success rate
@@ -55,7 +55,7 @@ Currently completing my Master's degree with hands-on experience in:
 
 ---
 
-### [SafeDrive — AI-Powered Drowsiness Detection](https://github.com/YOUR_ORG/safedrive)
+### [SafeDrive — AI-Powered Drowsiness Detection](https://github.com/dxtrnear/safedrive.git)
 > Android application using AI to detect driver drowsiness in real-time
 
 - Google ML Kit integration with <50ms response time
@@ -103,7 +103,7 @@ Currently completing my Master's degree with hands-on experience in:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-semlali/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-semlali-71403421a/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:semlalinassim@gmail.com)
 
 ---
