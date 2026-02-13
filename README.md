@@ -93,14 +93,6 @@ Currently completing my Master's degree with hands-on experience in:
 
 ---
 
-## 🌍 Languages
-
-- 🇫🇷 French — Fluent
-- 🇬🇧 English — Fluent (B2/C1)
-- 🇲🇦 Arabic — Native
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-semlali-71403421a/)
