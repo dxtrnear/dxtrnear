@@ -16,17 +16,6 @@ Currently completing my Master's degree with hands-on experience in:
 - **Embedded ML optimization** (quantization, edge deployment, MLOps)
 - **Real-time systems** (RTOS, protocols, hardware interfaces)
 
----
-
-## 💼 Experience
-
-**R&D Intern — Embedded ML & Real-Time Architectures** @ Vinci Energies (Actemium)  
-`April 2025 – September 2025 | Paris, France`
-
-- Optimized and quantized YOLO/MobileNet models (INT8) for deployment on ARTPEC-8 SoC (ARM architecture, DLPU accelerator)
-- Designed real-time MQTT architecture for ML metadata transmission with MLOps monitoring
-- C/C++ development on ACAP platform, Docker CI/CD, RTP/RTSP H.264 video processing
-- R&D on TRAPEZE project: 24/7 vehicle detection and classification
 
 ---
 
